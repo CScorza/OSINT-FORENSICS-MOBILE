@@ -1,6 +1,5 @@
-
-# OSINT-MOBILE
-Tools OSINT MOBILE
+# OSINT/FORENSICS-MOBILE
+Tools OSINT/FORENSICS MOBILE
 
 ![smartphonemagnify-300x240](https://user-images.githubusercontent.com/98583912/190924812-fd8c70f6-8223-47d3-bf8e-b37bec16f2b4.png)
 
@@ -13,12 +12,12 @@ Tools OSINT MOBILE
 - [Truecaller](https://www.truecaller.com/auth/sign-in)
 - [Sync.me](https://sync.me/it/)
 - [Infobel](https://www.infobel.com/fr/world)
-- [webmii](https://webmii.com/)
+- [Webmii](https://webmii.com/)
 - [National Cellular Directory](https://www.nationalcellulardirectory.com/)
-- [Annuario 118712 Francia](https://www.118712.fr/)
-- [spokeo](https://www.spokeo.com/)
-- [phonebooks](https://www.phonebooks.com/)
-- [thisnumber](https://www.thisnumber.com/)
+- [Annuario 118712 Francia](https://www.118712.fr/) 
+- [Spokeo](https://www.spokeo.com/)
+- [Phone Books](https://www.phonebooks.com/)
+- [This Number](https://www.thisnumber.com/)
 - [Phoneinfoga](https://demo.phoneinfoga.crvx.fr/#/)
 
 ## Analisi Celle Telefoniche
@@ -66,20 +65,20 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 
 - [SNDeepInfo](https://sndeep.info/en)
 - [IMEI tools](http://imei-number.com/imei-number-lookup/)
-- [nobbi](http://www.nobbi.com/tacquery.php)
+- [Nobbi](http://www.nobbi.com/tacquery.php)
 - [CONTROLLO IMEI](https://www.imei.info/)
 - [Telefono sotto controllo](https://www.telefonosottocontrollo.com/imei-marca-modello-cellulare/)
 - [Analisi dei numeri IMEI](https://www.numberingplans.com/?page=analysis&sub=imeinr)
 
 ## Applicazioni Android
-### - CELLE 
+### CELLE 
 - [Securcube BTS Tracker](https://play.google.com/store/apps/details?id%3Dnet.securcube.btstracker)
 - [Cell Tower Locator](https://play.google.com/store/apps/details?id%3Dru.v_a_v.celltowerlocator)
 - [Opensignal - 5G, 4G Speed Test](https://play.google.com/store/apps/details?id%3Dcom.staircase3.opensignal)
 - [NetMonitor Cell Signal Logging](https://play.google.com/store/apps/details?id%3Dru.v_a_v.netmonitor)
 - [CellMapper](https://play.google.com/store/apps/details?id%3Dcellmapper.net.cellmapper)
 
-### !WIFI 
+### WIFI 
 - [WIGLE - Wifi](https://play.google.com/store/apps/details?id%3Dnet.wigle.wigleandroid)
 - [Fing - Network Tools](https://play.google.com/store/apps/details?id%3Dcom.overlook.android.fing)
 - [WifiAnalyzer](https://play.google.com/store/apps/details?id%3Dcom.vrem.wifianalyzer)
@@ -95,12 +94,12 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 ### Analisi/Esportazione Chat 
 ![esportazione-chat-whatsapp](https://user-images.githubusercontent.com/98583912/190933662-164db90f-eda8-42da-9bd7-d21034feb6d5.jpg)
 
-[Chat Visualizer](https://chatvisualizer.com/)
-[WhatsAnalyze ](https://whatsanalyze-80665.web.app/)
+- [Chat Visualizer](https://chatvisualizer.com/)
+- [WhatsAnalyze ](https://whatsanalyze-80665.web.app/)
 ### Ricerca Gruppi 
-[Whatsgrouplink](https://whatsgrouplink.com/#0-pubg-whatsapp-group)
+- [Whatsgrouplink](https://whatsgrouplink.com/#0-pubg-whatsapp-group)
 ### Altri Strumenti
-[Watools](https://watools.io/download-profile-picture)
+- [Watools](https://watools.io/download-profile-picture)
 
 ## Telegram
 ![telegram_icon-icons com_72055](https://user-images.githubusercontent.com/98583912/190934092-0fb3047e-697f-4d75-946b-a94dde6870d4.png)
@@ -124,7 +123,7 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 
 
 - [Gsmarena - Ricerca e Caratteristiche Smartphone](https://www.gsmarena.com/)
-[Mobile Phone Museum - Collezione storica dei telefoni cellulari e Smartphone](https://www.mobilephonemuseum.com/catalogue/)
+- [Mobile Phone Museum - Collezione storica dei telefoni cellulari e Smartphone](https://www.mobilephonemuseum.com/catalogue/)
 - [Cruscotto - Confluenza](https://wiki.sei.cmu.edu/confluence/display/android)
 - [HardReset](https://www.hardreset.info/) - Cancellare tutti i dati sul tuo dispositivo
 - [DoubleBlak Digital Forensics](https://www.doubleblak.com/index.php)
@@ -138,6 +137,6 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [GitHub - ashishb / android-security-awesome: una raccolta di risorse relative alla sicurezza Android](https://github.com/ashishb/android-security-awesome)
 
 # Immagini ed Emulatori Android
-[genymotion](https://www.genymotion.com/download/)
-[osboxes](https://www.osboxes.org/android-x86/)
-[android-x86](https://www.android-x86.org/)
+- [Genymotion](https://www.genymotion.com/download/)
+- [Osboxes](https://www.osboxes.org/android-x86/)
+- [Android-x86](https://www.android-x86.org/)
