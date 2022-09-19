@@ -129,12 +129,14 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [DoubleBlak Digital Forensics](https://www.doubleblak.com/index.php)
 
 ## Tools Github
-- [GitHub - ALEAPP](https://github.com/abrignoni/ALEAPP)
-- [GitHub - iLEAPP](https://github.com/abrignoni/iLEAPP)
-- [GitHub - MEAT](https://github.com/jfarley248/MEAT)
-- [GitHub - AvillaForensics](https://github.com/AvillaDaniel/AvillaForensics)
+![icon](https://user-images.githubusercontent.com/98583912/191048022-a1edc21b-e5a5-4152-bb52-ca1f439846a2.svg)
+- [GitHub - Scrcpy](https://github.com/Genymobile/scrcpy/releases) 
+ - Questa applicazione fornisce la visualizzazione e il controllo dei dispositivi Android collegati tramite USB o tramite TCP/IP . Non richiede alcun accesso come root . Funziona su GNU/Linux , Windows e macOS.
+- [GitHub - ALEAPP](https://github.com/abrignoni/ALEAPP) - Android registra eventi e protobuf parser
+- [GitHub - MEAT](https://github.com/jfarley248/MEAT) - MEAT - Mobile Evidence Acquisition Toolkit
+- [GitHub - AvillaForensics](https://github.com/AvillaDaniel/AvillaForensics) - Strumento gratuito di analisi forense mobile Avilla Forensics
 - [GitHub - Mobile Verification Toolkit](https://github.com/mvt-project/mvt)
-- [GitHub - ashishb / android-security-awesome: una raccolta di risorse relative alla sicurezza Android](https://github.com/ashishb/android-security-awesome)
+- [GitHub - ashishb / Android-Security-Awesome: una raccolta di risorse relative alla sicurezza Android](https://github.com/ashishb/android-security-awesome)
 
 # Immagini ed Emulatori Android
 - [Genymotion](https://www.genymotion.com/download/)
