@@ -29,7 +29,8 @@ Tools OSINT/FORENSICS MOBILE
 - [OpenCelliD](https://opencellid.org/#zoom=16&lat=37.77888&lon=-122.41941)
 - [MLS - Overview](https://location.services.mozilla.com/)
 - [Unwired Labs Location API](https://unwiredlabs.com/)
-- [Cellular Coverage and Tower Map](https://www.cellmapper.net/map?MCC=222&MNC=10&type=LTE&latitude=0&longitude=0&zoom=11&showTowers=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=Last&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap)
+- [CellMapper](https://www.cellmapper.net)
+- [Infrapedia - Global Internet Infrastructure Map](https://www.infrapedia.com)
 
 
 ## Ricerca Operatori Telefonici
