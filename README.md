@@ -124,7 +124,7 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 
 - [Gsmarena - Ricerca e Caratteristiche Smartphone](https://www.gsmarena.com/)
 - [Mobile Phone Museum - Collezione storica dei telefoni cellulari e Smartphone](https://www.mobilephonemuseum.com/catalogue/)
-- [Cruscotto - Confluenza](https://wiki.sei.cmu.edu/confluence/display/android)
+- [Cruscotto - Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android)
 - [HardReset](https://www.hardreset.info/) - Cancellare tutti i dati sul tuo dispositivo
 - [DoubleBlak Digital Forensics](https://www.doubleblak.com/index.php)
 
