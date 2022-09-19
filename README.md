@@ -146,7 +146,8 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [Android-x86](https://www.android-x86.org/)
 
 # BEST PRACTICES MOBILE FORENSICS
-[SWGDE Best Practices for Mobile Phone Forensics.pdf](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)
 
+- [SWGDE Best Practices for Mobile Phone Forensics.pdf](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)
+- [Best Practices per iPhone e iDevice](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)
 
 
