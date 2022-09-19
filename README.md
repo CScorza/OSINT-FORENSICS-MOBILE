@@ -22,6 +22,11 @@ Tools OSINT MOBILE
 - [Phoneinfoga](https://demo.phoneinfoga.crvx.fr/#/)
 
 ## Analisi Celle Telefoniche
+### Le Sim MOBILE
+![2022-09-19 15_59_59-Carta SIM - Wikipedia](https://user-images.githubusercontent.com/98583912/191035415-86079c40-ab6d-4057-a9cc-42de86c0de17.png)
+![2022-09-19 16_06_05-Come vengono tracciati i telefoni cellulari - il Valore Italiano](https://user-images.githubusercontent.com/98583912/191036569-2bf6617f-8c62-4aa4-bca5-30cdef2afe0a.png)
+
+- [LTE ITALY - Mappa Antenne 4G](https://lteitaly.it/it/)
 - [OpenCelliD](https://opencellid.org/#zoom=16&lat=37.77888&lon=-122.41941)
 - [MLS - Overview](https://location.services.mozilla.com/)
 - [Unwired Labs Location API](https://unwiredlabs.com/)
@@ -42,19 +47,18 @@ Tools OSINT MOBILE
 International Mobile Equipment Identity
 
 L'IMEI si può visualizzare digitando *#06#, ovvero il comando AT + CGSN.
-
+"Oppure nel retro nella scatola del telefono oppure dietro la batteria dello stesso"
 È composto da 15 cifre, suddiviso in 4 parti:
 
 AAAAAA BB CCCCCC D
-dove
 
-AAAAAA rappresenta il TAC (Type Approval Code) che identifica la casa costruttrice e il modello del telefonino;
-BB rappresenta il FAC (Final Assembly Code) che identifica il luogo di costruzione o di assemblaggio del prodotto;
-CCCCCC indica il numero di serie del cellulare;
-D viene definita SP (Spare) o CD (Check digit) ed è una cifra riservata di controllo che verifica la correttezza del codice IMEI, calcolato con la formula di Luhn.
+dove:
+- AAAAAA rappresenta il TAC (Type Approval Code) che identifica la casa costruttrice e il modello del telefonino;
+- BB rappresenta il FAC (Final Assembly Code) che identifica il luogo di costruzione o di assemblaggio del prodotto;
+- CCCCCC indica il numero di serie del cellulare;
+- D viene definita SP (Spare) o CD (Check digit) ed è una cifra riservata di controllo che verifica la correttezza del codice IMEI, calcolato con la formula di Luhn.
 La sigla TAC, inoltre, ha cambiato significato ed è divenuto acronimo di Type Allocation Code.
-Alcuni numeri IMEI hanno 16 cifre; l'ultima parte di due cifre, detta SV (Software Version), 
-indica la versione del firmware dell'apparecchio, mentre la cifra spare è rimossa.
+Alcuni numeri IMEI hanno 16 cifre; l'ultima parte di due cifre, detta SV (Software Version), indica la versione del firmware dell'apparecchio, mentre la cifra spare è rimossa.
 
 Fonte: 
 https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
