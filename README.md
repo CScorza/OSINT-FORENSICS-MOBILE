@@ -145,3 +145,8 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [Osboxes](https://www.osboxes.org/android-x86/)
 - [Android-x86](https://www.android-x86.org/)
 
+# BEST PRACTICES MOBILE FORENSICS
+[SWGDE Best Practices for Mobile Phone Forensics.pdf](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)
+
+
+
