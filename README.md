@@ -150,4 +150,3 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [SWGDE Best Practices for Mobile Phone Forensics.pdf](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)
 - [TipiLoschi.net - Best Practices per iPhone e iDevice](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)
 
- - 
