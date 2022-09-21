@@ -73,21 +73,21 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 
 ## Applicazioni Android
 ### CELLE 
-- [Securcube BTS Tracker](https://play.google.com/store/apps/details?id%3Dnet.securcube.btstracker)
-- [Cell Tower Locator](https://play.google.com/store/apps/details?id%3Dru.v_a_v.celltowerlocator)
-- [Opensignal - 5G, 4G Speed Test](https://play.google.com/store/apps/details?id%3Dcom.staircase3.opensignal)
+- [Securcube BTS Tracker](https://play.google.com/store/apps/details?id=net.securcube.btstracker&hl=en_US&gl=US)
+- [Cell Tower Locator](https://play.google.com/store/apps/details?id=ru.v_a_v.celltowerlocator&hl=en&gl=US)
+- [Opensignal - 5G, 4G Speed Test](https://play.google.com/store/apps/details?id=com.staircase3.opensignal&hl=en&gl=US)
 - [NetMonitor Cell Signal Logging](https://play.google.com/store/apps/details?id%3Dru.v_a_v.netmonitor)
-- [CellMapper](https://play.google.com/store/apps/details?id%3Dcellmapper.net.cellmapper)
+- [CellMapper]https://play.google.com/store/apps/details?id=cellmapper.net.cellmapper&hl=it&gl=US)
 
 ### WIFI 
-- [WIGLE - Wifi](https://play.google.com/store/apps/details?id%3Dnet.wigle.wigleandroid)
-- [Fing - Network Tools](https://play.google.com/store/apps/details?id%3Dcom.overlook.android.fing)
-- [WifiAnalyzer](https://play.google.com/store/apps/details?id%3Dcom.vrem.wifianalyzer)
-- [SignalMonitoring](https://play.google.com/store/apps/details?id%3Dcom.signalmonitoring.wifimonitoring)
-- [SpeedTest](https://play.google.com/store/apps/details?id%3Dcom.internet.speedtest.check.wifi.meter)
+- [WIGLE - Wifi](https://play.google.com/store/apps/details?id=net.wigle.wigleandroid&hl=en_US&gl=US)
+- [Fing - Network Tools](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=it&gl=US)
+- [WifiAnalyzer](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer&hl=it&gl=US)
+- [SignalMonitoring]https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoring&hl=it&gl=US)
+- [SpeedTest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=it&gl=US)
 
 ## ALTRE APP
-- [FAKE GPS](https://play.google.com/store/apps/details?id%3Dcom.gsmartstudio.fakegps)
+- [FAKE GPS](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps&hl=it&gl=US)
 
 # Messaggistica
 ## Whatsapp
