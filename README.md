@@ -6,7 +6,7 @@ Tools OSINT/FORENSICS MOBILE
 ## Elenchi Telefonici - Ricerca Numero 
 ### Italia
 - [Elenchi Telefonici](http://www.elenchitelefonici.it/home/)
-- [Agcom](https://www.agcom.it/numerazionicallcenter) Anagrafica della/le società esercente/i l'attività di call center 
+- [Agcom](https://www.agcom.it/numerazionicallcenter) - Anagrafica della/le società esercente/i l'attività di call center 
 - [Pagine Bianche](https://www.paginebianche.it/)
 ### Stranieri
 - [Truecaller](https://www.truecaller.com/auth/sign-in)
@@ -77,13 +77,13 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [Cell Tower Locator](https://play.google.com/store/apps/details?id=ru.v_a_v.celltowerlocator&hl=en&gl=US)
 - [Opensignal - 5G, 4G Speed Test](https://play.google.com/store/apps/details?id=com.staircase3.opensignal&hl=en&gl=US)
 - [NetMonitor Cell Signal Logging](https://play.google.com/store/apps/details?id%3Dru.v_a_v.netmonitor)
-- [CellMapper]https://play.google.com/store/apps/details?id=cellmapper.net.cellmapper&hl=it&gl=US)
+- [CellMapper](https://play.google.com/store/apps/details?id=cellmapper.net.cellmapper&hl=it&gl=US)
 
 ### WIFI 
 - [WIGLE - Wifi](https://play.google.com/store/apps/details?id=net.wigle.wigleandroid&hl=en_US&gl=US)
 - [Fing - Network Tools](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=it&gl=US)
 - [WifiAnalyzer](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer&hl=it&gl=US)
-- [SignalMonitoring]https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoring&hl=it&gl=US)
+- [SignalMonitoring](https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoring&hl=it&gl=US)
 - [SpeedTest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=it&gl=US)
 
 ## ALTRE APP
