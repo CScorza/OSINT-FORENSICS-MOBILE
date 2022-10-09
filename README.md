@@ -32,13 +32,19 @@ Tools OSINT/FORENSICS MOBILE
 - [CellMapper](https://www.cellmapper.net)
 - [Infrapedia - Global Internet Infrastructure Map](https://www.infrapedia.com)
 
-
+  - USA 
+    - [Antenna Search](https://www.antennasearch.com/)
+  - Inghiterra
+    - [MASTDATA](https://mastdata.com/)
 ## Ricerca Operatori Telefonici
 - [Twilio - Ricerca per API](https://www.twilio.com/lookup)
 - [Reverse Phone Lookup - Ricerca per Numero telefonico](http://www.reversephonelookup.com/)
 - [Spy Dialer - Ricerca per Numero Telefonico](http://spydialer.com/)
 - [Phone Validator - Ricerca e Convalida numero telefonico](https://www.phonevalidator.com/index.aspx)
 - [Free Carrier Lookup - Ricerca Operatore Telefonico](http://freecarrierlookup.com/)
+
+  - USA 
+    - [Ricerca Numero](https://www.thisnumber.com/)
 
 ## Codice IMEI 
 ![COdice Imei](https://spyproject.com/img/landing/b/imei1.jpg)
