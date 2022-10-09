@@ -1,159 +1,116 @@
-# OSINT/FORENSICS-MOBILE
-Tools OSINT/FORENSICS MOBILE
+# Image OSINT/Forensics
+## Ricerca e Analisi delle Immagini 
 
-![smartphonemagnify-300x240](https://user-images.githubusercontent.com/98583912/190924812-fd8c70f6-8223-47d3-bf8e-b37bec16f2b4.png)
+![Reverse-Image-Search-Engines png cf](https://user-images.githubusercontent.com/98583912/191872805-dafa7aa6-63dc-4542-a3ed-695ef1b64a0e.jpg)
 
-## Elenchi Telefonici - Ricerca Numero 
-### Italia
-- [Elenchi Telefonici](http://www.elenchitelefonici.it/home/)
-- [Agcom](https://www.agcom.it/numerazionicallcenter) - Anagrafica della/le società esercente/i l'attività di call center 
-- [Pagine Bianche](https://www.paginebianche.it/)
-### Stranieri
-- [Truecaller](https://www.truecaller.com/auth/sign-in)
-- [Sync.me](https://sync.me/it/)
-- [Infobel](https://www.infobel.com/fr/world)
-- [Webmii](https://webmii.com/)
-- [National Cellular Directory](https://www.nationalcellulardirectory.com/)
-- [Annuario 118712 Francia](https://www.118712.fr/) 
-- [Spokeo](https://www.spokeo.com/)
-- [Phone Books](https://www.phonebooks.com/)
-- [This Number](https://www.thisnumber.com/)
-- [Phoneinfoga](https://demo.phoneinfoga.crvx.fr/#/)
 
-## Analisi Celle Telefoniche
-### Le Sim MOBILE
-![2022-09-19 15_59_59-Carta SIM - Wikipedia](https://user-images.githubusercontent.com/98583912/191035415-86079c40-ab6d-4057-a9cc-42de86c0de17.png)
-![2022-09-19 16_06_05-Come vengono tracciati i telefoni cellulari - il Valore Italiano](https://user-images.githubusercontent.com/98583912/191036569-2bf6617f-8c62-4aa4-bca5-30cdef2afe0a.png)
+## Ricerca per immagini
+- [Bing - Ricerca visiva](https://www.bing.com/visualsearch?sklsharecode=4BHJRI&FORM=CLMRDR)
+- [Google Immagini](https://images.google.com/)
+- [Yandex Immagini](https://yandex.com/images/)
+- [Zapmeta](https://www.zapmeta.com/)
+- [Baidu](http://image.baidu.com/)
+- [OsintCombine - Reverse Image Analyzer](https://www.osintcombine.com/reverse-image-analyzer)
+- [Flickr](https://secure.flickr.com/)
+- [ImageIdentify](https://www.imageidentify.com/)
+- [Karmadecay - Reverse image search of Reddit.com](http://karmadecay.com/)
+- [TinEye - Reverse Image Search](https://tineye.com/)
+- [Yahoo - Images Search](https://images.search.yahoo.com/)
+- [Geolocation Estimation - Image](https://labs.tib.eu/geoestimation/)
 
-- [LTE ITALY - Mappa Antenne 4G](https://lteitaly.it/it/)
-- [OpenCelliD](https://opencellid.org/#zoom=16&lat=37.77888&lon=-122.41941)
-- [MLS - Overview](https://location.services.mozilla.com/)
-- [Unwired Labs Location API](https://unwiredlabs.com/)
-- [CellMapper](https://www.cellmapper.net)
-- [Infrapedia - Global Internet Infrastructure Map](https://www.infrapedia.com)
+## Estensioni Ricerca Immagini
+- [GitHub - EstensioniChromeOSINT ricerca immagini](https://github.com/CScorza/EstensioniChromeOSINT#ricerca-immagini)
 
-  - USA 
-    - [Antenna Search](https://www.antennasearch.com/)
-  - Inghiterra
-    - [MASTDATA](https://mastdata.com/)
-## Ricerca Operatori Telefonici
-- [Twilio - Ricerca per API](https://www.twilio.com/lookup)
-- [Reverse Phone Lookup - Ricerca per Numero telefonico](http://www.reversephonelookup.com/)
-- [Spy Dialer - Ricerca per Numero Telefonico](http://spydialer.com/)
-- [Phone Validator - Ricerca e Convalida numero telefonico](https://www.phonevalidator.com/index.aspx)
-- [Free Carrier Lookup - Ricerca Operatore Telefonico](http://freecarrierlookup.com/)
+# Ricerca Volti
+![2022-09-23 02_29_37-Face Detection Explained_ State-of-the-Art Methods and Best Tools _ by Sciforce ](https://user-images.githubusercontent.com/98583912/191873265-de0d049f-16aa-4349-991f-2a8e054f702c.png)
 
-  - USA 
-    - [Ricerca Numero](https://www.thisnumber.com/)
-
-## Codice IMEI 
-![COdice Imei](https://spyproject.com/img/landing/b/imei1.jpg)
-![Imei](https://it.tab-tv.com/wp-content/uploads/2019/11/IMEI-codice-che-significa-spiegazione-it.jpg)
 ```
-International Mobile Equipment Identity
-
-L'IMEI si può visualizzare digitando *#06#, ovvero il comando AT + CGSN.
-"Oppure nel retro nella scatola del telefono oppure dietro la batteria dello stesso"
-È composto da 15 cifre, suddiviso in 4 parti:
-
-AAAAAA BB CCCCCC D
-
-dove:
-- AAAAAA rappresenta il TAC (Type Approval Code) che identifica la casa costruttrice e il modello del telefonino;
-- BB rappresenta il FAC (Final Assembly Code) che identifica il luogo di costruzione o di assemblaggio del prodotto;
-- CCCCCC indica il numero di serie del cellulare;
-- D viene definita SP (Spare) o CD (Check digit) ed è una cifra riservata di controllo che verifica la correttezza del codice IMEI, calcolato con la formula di Luhn.
-La sigla TAC, inoltre, ha cambiato significato ed è divenuto acronimo di Type Allocation Code.
-Alcuni numeri IMEI hanno 16 cifre; l'ultima parte di due cifre, detta SV (Software Version), indica la versione del firmware dell'apparecchio, mentre la cifra spare è rimossa.
-
-Fonte: 
-https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
+Il riconoscimento facciale (in inglese face detection) 
+è una tecnica di riconoscimento, utilizzando l'intelligenza artificiale, 
+incentrata su dati biometrici per identificare o verificare l'identità di una persona
 ```
-
-- [SNDeepInfo](https://sndeep.info/en)
-- [IMEI tools](http://imei-number.com/imei-number-lookup/)
-- [Nobbi](http://www.nobbi.com/tacquery.php)
-- [CONTROLLO IMEI](https://www.imei.info/)
-- [Telefono sotto controllo](https://www.telefonosottocontrollo.com/imei-marca-modello-cellulare/)
-- [Analisi dei numeri IMEI](https://www.numberingplans.com/?page=analysis&sub=imeinr)
-
-## Applicazioni Android
-### CELLE 
-- [Securcube BTS Tracker](https://play.google.com/store/apps/details?id=net.securcube.btstracker&hl=en_US&gl=US)
-- [Cell Tower Locator](https://play.google.com/store/apps/details?id=ru.v_a_v.celltowerlocator&hl=en&gl=US)
-- [Opensignal - 5G, 4G Speed Test](https://play.google.com/store/apps/details?id=com.staircase3.opensignal&hl=en&gl=US)
-- [NetMonitor Cell Signal Logging](https://play.google.com/store/apps/details?id%3Dru.v_a_v.netmonitor)
-- [CellMapper](https://play.google.com/store/apps/details?id=cellmapper.net.cellmapper&hl=it&gl=US)
-
-### WIFI 
-- [WIGLE - Wifi](https://play.google.com/store/apps/details?id=net.wigle.wigleandroid&hl=en_US&gl=US)
-- [Fing - Network Tools](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=it&gl=US)
-- [WifiAnalyzer](https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer&hl=it&gl=US)
-- [SignalMonitoring](https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoring&hl=it&gl=US)
-- [SpeedTest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=it&gl=US)
-
-## ALTRE APP
-- [FAKE GPS](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps&hl=it&gl=US)
-
-# Messaggistica
-## Whatsapp
-![Whatsapp_37229](https://user-images.githubusercontent.com/98583912/190934139-b3b41790-aecd-4a9d-9b00-59249a70d0eb.png)
-### Analisi/Esportazione Chat 
-![esportazione-chat-whatsapp](https://user-images.githubusercontent.com/98583912/190933662-164db90f-eda8-42da-9bd7-d21034feb6d5.jpg)
-
-- [Chat Visualizer](https://chatvisualizer.com/)
-- [WhatsAnalyze ](https://whatsanalyze-80665.web.app/)
-### Ricerca Gruppi 
-- [Whatsgrouplink](https://whatsgrouplink.com/#0-pubg-whatsapp-group)
-### Altri Strumenti
-- [Watools](https://watools.io/download-profile-picture)
-
-## Telegram
-![telegram_icon-icons com_72055](https://user-images.githubusercontent.com/98583912/190934092-0fb3047e-697f-4d75-946b-a94dde6870d4.png)
-- [Telegram Web](https://web.telegram.org/k/)
-### Esportazione Chat Telegram
-![esportare-chat-telegram](https://user-images.githubusercontent.com/98583912/190934176-ba345478-258a-44ab-b8e4-73789135c84a.jpg)
-
-### Ricerca Gruppi
-- [telegramdb](https://telegramdb.org/)
-- [Telegram Search Engine](https://xtea.io/ts_en.html)
-- [Global Telegram Database](https://t.me/s/privatelinks)
-- [TGStat](https://tgstat.com/) - Catalogo canali e gruppi Telegram
-- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
-- [SocialFinder](https://socialfinder.app/list/Telegram)
-- [lyzem.com](https://lyzem.com/)
-- [Telegram Channels](https://telegramchannels.me/)
+- [Wikipedia](https://it.wikipedia.org/wiki/Riconoscimento_facciale)
 
 
-# Android/iOS Forense
-![Senzanome](https://user-images.githubusercontent.com/98583912/190924780-e187ac6b-4512-454e-8ff0-fcc62a16f75c.png)
+## Face Detection
+- [Pictriev - Searching faces on the Web](http://www.pictriev.com/)
+- [Star by Face](https://starbyface.com/)
+- [PinEyes](https://pimeyes.com/en)
+
+## Face Recognition
+- [Betaface](https://betaface.com/demo_old.html)
+- [Amazon Rekognition](https://eu-central-1.console.aws.amazon.com/rekognition/home?region=eu-central-1#/)
+- [Diffchecker  Compare Images](https://www.diffchecker.com/image-diff/)
+- [Face Comparing](https://www.faceplusplus.com/face-comparing/)
+
+### Linux e il Face Recognition
+![tsurugi-computer-vision-face-recognition-800x453](https://user-images.githubusercontent.com/98583912/191876985-ceb7162e-8e26-4ffd-82d1-dd37a62a761b.jpg)
+- [Dalchecco.it - Tsurugi - Computer Vision](https://www.dalchecco.it/tsurugi-linux-lab-2019-1-download/)
+   - [Iso Tsurugi](https://tsurugi-linux.org/downloads.php)
+
+# Analisi Forense
+## Metadati e Foto Fake
+![2022-09-23 03_03_49-4 Free Fake Image Detector - Analyze Photoshopped Photos](https://user-images.githubusercontent.com/98583912/191875696-97fa0dcc-3f66-4af9-be43-3a65dc4096ff.jpg)
+
+- [Imageedited - Is Your Image Edited?](http://imageedited.com/)
+- [FotoForensics](https://fotoforensics.com/)
+- [Metadata2go](https://www.metadata2go.com/)
+- [Getghiro](http://www.getghiro.org/)
+- [Adversarial.io – Fighting mass image recognition](https://adversarial.io/)
+- [Exif Jpeg header manipulation tool](https://www.sentex.ca/~mwandel/jhead/)
+- [Fake news debunker by InVID & WeVerify](https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=it)
+- [GitHub - EstensioniChromeOSINT - Metadati](https://github.com/CScorza/EstensioniChromeOSINT#metadati)
+- [ExtractMetadata.com](https://www.extractmetadata.com/)
+
+### Ricerca seriale Camera dalle Foto
+- [Camera Trace](http://www.cameratrace.com/trace)
+- [Stolen Camera Finder](https://www.stolencamerafinder.com/)
+
+## Strumenti Desktop Forensi per l'Analisi, Restauro delle Immagini e QR/Barcode
+
+### Gratis
+![photome-8686-6](https://user-images.githubusercontent.com/98583912/191875217-598f19b6-f93c-4a1a-ae56-4cc92aa77d80.jpg)
+
+### Online
+- [MyHeritage - Migliora le tue foto](https://www.myheritage.nl/photo-enhancer)
+- [Adobe Photoshop Express - Editor Online](https://express.adobe.com/it-IT/sp/design/post/new?workflow=blank&startingMenu=photos&_branch_match_id=1099944024871950226&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zJT0otLkgsyi7ILy7RSywo0MvJzMvW9%2FYKCDVI8ciPyE8CAPtH04orAAAA)
+
+### Software
+- [GIMP - GNU IMAGE MANIPULATION PROGRAM](https://www.gimp.org/)
+- [ImageJ](https://imagej.net/software/fiji/downloads)
+- [JPEGsnoop](https://jpegsnoop.it.uptodown.com/windows)
+- [Media Info](https://mediaarea.net/it/MediaInfo)
+- [PhotoMe](https://www.photome.de/home_en.html)
+
+### GITHUB
+- [Face_Recognition](https://github.com/ageitgey/face_recognition)
+
+### QR Code / Barcode Analisi
+![download](https://user-images.githubusercontent.com/98583912/194751658-ae878ebf-636c-4f7d-abd2-33152c28e123.png)
+```
+Un codice QR è un codice a barre bidimensionale, ossia a matrice, composto da moduli neri 
+disposti all'interno di uno schema bianco di forma quadrata, impiegato in genere per memorizzare 
+informazioni destinate a essere lette tramite un apposito lettore ottico o anche smartphone
+```
+- [ASPOSE - Barcode Reader Online](https://products.aspose.app/barcode/recognize)
+- [Online Barcode Reader](https://www.onlinebarcodereader.com/)
+- [Free Online Barcode Reader](https://online-barcode-reader.inliteresearch.com/)
+
+### Pagamento
+![clip_image0025_thumb (1)](https://user-images.githubusercontent.com/98583912/191876099-16fb7e99-f888-4cd4-b306-cca7a776b03c.jpg)
+
+- [Photoshop](https://www.adobe.com/it/creativecloud/photography.html?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-ud2gBwdDHQy-paRgBI71tJcaAvkVEALw_wcB&mv=search&mv=search&sdid=LZ32SYVR&ef_id=Cj0KCQjwj7CZBhDHARIsAPPWv3cQFwWNwDrJCibzem1GUrNIgVnyKA0-u[d2gBwdDHQy-p[aRgBI71tJcaAvkVEALw_wcB:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!photoshop!1457478956!59242745680)
+- [AmpedFive](https://ampedsoftware.com/it/)
+
+## Image Forensics - Smartphone
+- [FAS](https://play.google.com/store/apps/details?id=com.fas.app&hl=it&gl=US) - Forensics Acquisition of Screenshot
+- [IAFace](https://play.google.com/store/apps/details?id=tk.smh17.iaface&hl=it&gl=US)- [Photo Sherlock](https://play.google.com/store/apps/details?id=hippeis.com.photochecker&hl=it&gl=US)
+- [ImageMeter](https://play.google.com/store/apps/details?id=de.dirkfarin.imagemeter&hl=it&gl=US)
+- [Google - LENS](https://play.google.com/store/apps/details?id=com.google.ar.lens&hl=it&gl=US)
+- [Lettore QR](https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner&hl=it&gl=US)
 
 
-- [Gsmarena - Ricerca e Caratteristiche Smartphone](https://www.gsmarena.com/)
-- [Mobile Phone Museum - Collezione storica dei telefoni cellulari e Smartphone](https://www.mobilephonemuseum.com/catalogue/)
-- [Cruscotto - Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android)
-- [HardReset](https://www.hardreset.info/) - Cancellare tutti i dati sul tuo dispositivo
-- [DoubleBlak Digital Forensics](https://www.doubleblak.com/index.php)
-
-## Tools Github
-![icon](https://user-images.githubusercontent.com/98583912/191048022-a1edc21b-e5a5-4152-bb52-ca1f439846a2.svg)
-- [GitHub - Scrcpy](https://github.com/Genymobile/scrcpy/releases) 
- - Questa applicazione fornisce la visualizzazione e il controllo dei dispositivi Android collegati tramite USB o tramite TCP/IP. 
-   Non richiede alcun accesso come root. Funziona su GNU/Linux, Windows e macOS.
-- [GitHub - Andriller CE](https://github.com/den4uk/andriller) - Software con una raccolta di strumenti forensi per smartphone
-- [GitHub - ALEAPP](https://github.com/abrignoni/ALEAPP) - Android registra eventi e protobuf parser
-- [GitHub - MEAT](https://github.com/jfarley248/MEAT) - MEAT - Mobile Evidence Acquisition Toolkit
-- [GitHub - AvillaForensics](https://github.com/AvillaDaniel/AvillaForensics) - Strumento gratuito di analisi forense mobile Avilla Forensics
-- [GitHub - Mobile Verification Toolkit](https://github.com/mvt-project/mvt)
-- [GitHub - ashishb / Android-Security-Awesome: una raccolta di risorse relative alla sicurezza Android](https://github.com/ashishb/android-security-awesome)
-
-# Immagini ed Emulatori Android
-- [Genymotion](https://www.genymotion.com/download/)
-- [Osboxes](https://www.osboxes.org/android-x86/)
-- [Android-x86](https://www.android-x86.org/)
-
-# LE BEST PRACTICES DELLA MOBILE FORENSICS
-
-- [SWGDE Best Practices for Mobile Phone Forensics.pdf](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)
-- [TipiLoschi.net - Best Practices per iPhone e iDevice](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)
-
+# Fonti e Studi utili 
+- [Image Forensics Contraffazione Digitale e Identificazione della Camera i Acquisizione](https://www.dmi.unict.it/~battiato/download/IISFA%202009%20004635290da42dce59000000.pdf)
+- [IISFA Memberbook 2011](https://www.dmi.unict.it/~battiato/download/IISFAMemberbook2011.pdf) 
+- [Linkedin - Forensics Imagery](https://www.linkedin.com/posts/scorzaosint01_forensics-imaginery-manucar-activity-6944889688990089216-aD2f?utm_source=share&utm_medium=member_desktop)
