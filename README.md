@@ -1,5 +1,7 @@
 # OSINT/FORENSICS-MOBILE
-Tools OSINT/FORENSICS MOBILE
+<p align="center">
+  <br><b> Tools OSINT/FORENSICS MOBILE</b>
+</p>
 
 ![smartphonemagnify-300x240](https://user-images.githubusercontent.com/98583912/190924812-fd8c70f6-8223-47d3-bf8e-b37bec16f2b4.png)
 
