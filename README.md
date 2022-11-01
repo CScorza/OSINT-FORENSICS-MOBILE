@@ -1,7 +1,15 @@
-# OSINT/FORENSICS-MOBILE
-<p align="center">
-  <br><b> Tools OSINT/FORENSICS MOBILE</b>
-</p>
+![Immagine11](https://user-images.githubusercontent.com/98583912/199345295-191b152d-657f-42fc-a317-52f93b5be3d3.gif)
+
+# INDICE
+- [1 - Elenchi Telefonici - Ricerca Numero](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#1---elenchi-telefonici---ricerca-numero)
+- [2 - Analisi Celle Telefoniche](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#2---analisi-celle-telefoniche)
+- [3 - Ricerca Operatori Telefonici](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#3---ricerca-operatori-telefonici)
+- [4 - Codice IMEI](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#4---codice-imei)
+- [5 - Applicazioni Android](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#5---applicazioni-android)
+- [6 - Messaggistica](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#6---messaggistica)
+- [7 - Android/iOS Forense](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#7---androidios-forense)
+- [8 - Immagini ed Emulatori Android](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#8---immagini-ed-emulatori-android)
+- [9 - LE BEST PRACTICES DELLA MOBILE FORENSICS](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/edit/main/README.md#9---le-best-practices-della-mobile-forensics)
 
 ![smartphonemagnify-300x240](https://user-images.githubusercontent.com/98583912/190924812-fd8c70f6-8223-47d3-bf8e-b37bec16f2b4.png)
 
