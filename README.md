@@ -149,7 +149,7 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 ![icon](https://user-images.githubusercontent.com/98583912/191048022-a1edc21b-e5a5-4152-bb52-ca1f439846a2.svg)
 - [GitHub - Scrcpy](https://github.com/Genymobile/scrcpy/releases) 
  - Questa applicazione fornisce la visualizzazione e il controllo dei dispositivi Android collegati tramite USB o tramite TCP/IP. 
-   Non richiede alcun accesso come root. Funziona su GNU/Linux, Windows e macOS.
+   - Non richiede alcun accesso come root. Funziona su GNU/Linux, Windows e macOS.
 - [GitHub - Andriller CE](https://github.com/den4uk/andriller) - Software con una raccolta di strumenti forensi per smartphone
 - [GitHub - ALEAPP](https://github.com/abrignoni/ALEAPP) - Android registra eventi e protobuf parser
 - [GitHub - MEAT](https://github.com/jfarley248/MEAT) - MEAT - Mobile Evidence Acquisition Toolkit
