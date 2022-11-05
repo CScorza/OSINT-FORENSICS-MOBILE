@@ -157,12 +157,17 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [GitHub - Mobile Verification Toolkit](https://github.com/mvt-project/mvt)
 - [GitHub - ashishb / Android-Security-Awesome: una raccolta di risorse relative alla sicurezza Android](https://github.com/ashishb/android-security-awesome)
 
-# Immagini ed Emulatori Android
-- [Genymotion](https://www.genymotion.com/download/)
-- [Osboxes](https://www.osboxes.org/android-x86/)
-- [Android-x86](https://www.android-x86.org/)
+# Emulatori Android
+- [Emulatori Android](https://github.com/CScorza/DistroForensics#emulaotri-android)
 
 # LE BEST PRACTICES DELLA MOBILE FORENSICS
 
 - [SWGDE Best Practices for Mobile Phone Forensics.pdf](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)
 - [TipiLoschi.net - Best Practices per iPhone e iDevice](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)
+
+
+# NOTA BENE
+![Attensione](https://user-images.githubusercontent.com/98583912/200124134-52263b4c-0332-4218-80d3-b5f7b0cfd97d.gif)
+- Qualsiasi strumento inserito, può essere usato sia per fini professionali che per fini didattici.
+Ai fini professionali si consiglia l'uso di strumenti idonei per evitare qualisasi forma di tracciamento (Ambiente virtualizzato etc) e di seguire le varie Best pratics.
+- Per realizzare un ambiente virtuale seguire questo repository [DistroForensics](https://github.com/CScorza/DistroForensics)
