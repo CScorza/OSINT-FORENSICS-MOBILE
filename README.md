@@ -170,4 +170,6 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 ![Attensione](https://user-images.githubusercontent.com/98583912/200124134-52263b4c-0332-4218-80d3-b5f7b0cfd97d.gif)
 - Qualsiasi strumento inserito, può essere usato sia per fini professionali che per fini didattici.
 Ai fini professionali si consiglia l'uso di strumenti idonei per evitare qualisasi forma di tracciamento (Ambiente virtualizzato etc) e di seguire le varie Best pratics.
-- Per realizzare un ambiente virtuale seguire questo repository [DistroForensics](https://github.com/CScorza/DistroForensics)
+- Per realizzare un ambiente virtuale seguire questi repository
+- [DataProtection - Rendersi Anonimi nel Web](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)
+- [DistroForensics](https://github.com/CScorza/DistroForensics)
