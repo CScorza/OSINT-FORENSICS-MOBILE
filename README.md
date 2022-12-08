@@ -140,7 +140,7 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 ![Senzanome](https://user-images.githubusercontent.com/98583912/190924780-e187ac6b-4512-454e-8ff0-fcc62a16f75c.png)
 
 
-|[**Gsmarena**](https://www.gsmarena.com/)|**Catalogo canali e gruppi Telegram**|
+|[**Gsmarena**](https://www.gsmarena.com/)|**Catalogo e specifiche dei smartphone**|
 | :--- | :--- |
 |[**Mobile Phone Museum**](https://www.mobilephonemuseum.com/catalogue/)|**Collezione storica dei telefoni cellulari e Smartphone**|
 |[**Cruscotto**](https://wiki.sei.cmu.edu/confluence/display/android)|**Android Secure Coding Standard**|
