@@ -144,6 +144,7 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 - [Cruscotto - Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android)
 - [HardReset](https://www.hardreset.info/) - Cancellare tutti i dati sul tuo dispositivo
 - [DoubleBlak Digital Forensics](https://www.doubleblak.com/index.php)
+- [3uTools](http://www.3u.com/)
 
 ## Tools Github
 ![icon](https://user-images.githubusercontent.com/98583912/191048022-a1edc21b-e5a5-4152-bb52-ca1f439846a2.svg)
