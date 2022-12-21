@@ -88,8 +88,8 @@ Fonte:
 https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 ```
 
-|[**SNDeepInfo**](https://sndeep.info/en)|[**IMEI tools**](http://imei-number.com/imei-number-lookup/)|[**Nobbi**](http://www.nobbi.com/tacquery.php)|
-| :--- | :--- | :--- |
+|[**SNDeepInfo**](https://sndeep.info/en)|[**IMEI tools**](http://imei-number.com/imei-number-lookup/)|[**Nobbi**](http://www.nobbi.com/tacquery.php)|[**IMEI.info**](https://www.imei.info/)
+| :--- | :--- | :--- | :--- |
 |[**CONTROLLO IMEI**](https://www.imei.info/)|[**Telefono sotto controllo**](https://www.telefonosottocontrollo.com/imei-marca-modello-cellulare/)|[**Analisi dei numeri IMEI**](https://www.numberingplans.com/?page=analysis&sub=imeinr)|
 
 ## Applicazioni Android
@@ -146,7 +146,8 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 |[**Cruscotto**](https://wiki.sei.cmu.edu/confluence/display/android)|**Android Secure Coding Standard**|
 |[**HardReset**](https://www.hardreset.info/)|**Cancellare tutti i dati sul tuo dispositivo**|
 |[**DoubleBlak Digital Forensics**](https://www.doubleblak.com/index.php)||
-|[**3uTools -IOS**](http://www.3u.com/)|**Analisi dispositivi IOS**|
+|[**3uTools - IOS**](http://www.3u.com/)|**Recupero delle informazioni sul disposiitvo e dei contenuti**|
+|[**ADBGui - Android ADB**](https://github.com/hexadezi/adbGUI)|**Sideload, netstats e info utili**|
 
 
 ## Tools Github
