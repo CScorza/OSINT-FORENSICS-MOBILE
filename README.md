@@ -42,6 +42,7 @@
 ![2022-09-19 15_59_59-Carta SIM - Wikipedia](https://user-images.githubusercontent.com/98583912/191035415-86079c40-ab6d-4057-a9cc-42de86c0de17.png)
 ![2022-09-19 16_06_05-Come vengono tracciati i telefoni cellulari - il Valore Italiano](https://user-images.githubusercontent.com/98583912/191036569-2bf6617f-8c62-4aa4-bca5-30cdef2afe0a.png)
 
+**Copertura Rete**
 
 |**ITALIA**|**USA**|**Inghiterra**|
 | :--- | :--- | :--- |
@@ -51,6 +52,7 @@
 |[**Unwired Labs Location API**](https://unwiredlabs.com/)||
 |[**CellMapper**](https://www.cellmapper.net)||
 |[**Infrapedia - Global Internet Infrastructure Map**](https://www.infrapedia.com)||
+|[**NPERF**](https://www.nperf.com/it/map/IT/-/-/signal/)||
 
 ## Ricerca Operatori Telefonici
 
