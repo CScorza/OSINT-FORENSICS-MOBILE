@@ -59,7 +59,7 @@
 |**Generici**|**USA**|
 | :--- | :--- |
 |[**Twilio - Ricerca per API**](https://www.twilio.com/lookup)|[**Ricerca Numero**](https://www.thisnumber.com/)|
-|[**Reverse Phone Lookup - Ricerca per Numero telefonico**](http://www.reversephonelookup.com/)||
+|[**Reverse Phone Lookup - Ricerca per Numero telefonico**](http://www.reversephonelookup.com/)|[**HLRLookup**](https://www.hlrlookup.com/)|
 |[**Spy Dialer - Ricerca per Numero Telefonico**](http://spydialer.com/)||
 |[**Phone Validator - Ricerca e Convalida numero telefonico**](https://www.phonevalidator.com/index.aspx)||
 |[**Free Carrier Lookup - Ricerca Operatore Telefonico**](http://freecarrierlookup.com/)||
