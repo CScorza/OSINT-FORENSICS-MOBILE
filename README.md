@@ -169,8 +169,9 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 
 # LE BEST PRACTICES DELLA MOBILE FORENSICS
 
-|[**SWGDE Best Practices for Mobile Phone Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)|[**TipiLoschi.net - Best Practices per iPhone e iDevice**](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)|
-| :--- | :--- |
+||[**SWGDE Best Practices for Mobile Phone Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)|[**TipiLoschi.net - Best Practices per iPhone e iDevice**](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)|
+| :--- | :--- | :--- |
+|**NEWS**|[**CScorza - Best Practices di Digital Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/11068492/CScorza.-.Best.Practices.di.Digital.Forensics.pdf)||
 
 # NOTA BENE
 ![Attensione](https://user-images.githubusercontent.com/98583912/200124134-52263b4c-0332-4218-80d3-b5f7b0cfd97d.gif)
