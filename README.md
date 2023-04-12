@@ -1,5 +1,7 @@
 ![Index](https://user-images.githubusercontent.com/98583912/210836880-a20c3d74-edbb-420f-8481-a590d94ad2ed.gif)
 
+
+
 **INDICE**
 
 
@@ -151,9 +153,24 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 |[**3uTools - IOS**](http://www.3u.com/)|**Recupero delle informazioni sul disposiitvo e dei contenuti**|
 |[**ADBGui - Android ADB**](https://github.com/hexadezi/adbGUI)|**Sideload, netstats e info utili**|
 
+## Smontaggio Smartphone
+
+![image](https://user-images.githubusercontent.com/98583912/231369444-292715d1-82f2-4d87-9815-d45c4fa69e00.png)
+
+|![Android](https://user-images.githubusercontent.com/98583912/231368017-e05e5429-bdc4-4e9e-bacf-772a4f282764.gif)|![Apple](https://user-images.githubusercontent.com/98583912/231368043-40229ce9-68b5-435b-910f-44ffb7fb504d.gif)|![Windows Phone jpg](https://user-images.githubusercontent.com/98583912/231368105-dc26c445-5dfb-4d5e-892a-10d35cc6d171.gif)|![Linux Phone](https://user-images.githubusercontent.com/98583912/231368209-c8261462-363c-498c-bdb9-8ecd473aa681.gif)|![Altri](https://user-images.githubusercontent.com/98583912/231368408-df40d903-c65d-4ba8-9478-0bd806005dec.gif)
+| :---: | :---: | :---: | :---: | :---: | 
+|[**Anroid**](https://it.ifixit.com/Device/Other_OS_Phone)|[**Apple Iphone**](https://it.ifixit.com/Device/iPhone)|[**Windows**](https://it.ifixit.com/Device/Windows_Phone)|[**Linux Phone**](https://it.ifixit.com/Device/Linux_Phone)|[**Altri Device**](https://it.ifixit.com/Device/Other_OS_Phone)|
+
+**Attrezzatura Utile**
+|[**Tappettino**](https://www.amazon.it/isolamento-riparazione-smontaggio-Workstation-manutenzione/dp/B07ZQKLGQ6)|[**Set Cacciaviti**](https://www.amazon.it/Housolution-Cacciavite-Ricaricabile-Magnetiche-Illuminazione/dp/B09Q5W5P53/ref=sr_1_38?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=GY52RARAR8AJ&keywords=set%2Bcacciaviti%2Briparazione%2Btelefono%2Belettrico%2Briparazione%2Btelefoni&qid=1681280943&s=industrial&sprefix=set%2Bcacciaviti%2Briparazione%2Btelefono%2Belettrico%2Briparazione%2Btelefon%2Cindustrial%2C215&sr=1-38&th=1)
+| :---: | :---: |
+
+**Il tutto è puramente indicativo***
+
 
 ## Tools Github
-![icon](https://user-images.githubusercontent.com/98583912/191048022-a1edc21b-e5a5-4152-bb52-ca1f439846a2.svg)
+
+![icon](https://user-images.githubusercontent.com/98583912/231379177-72ede23c-cf91-4c4b-9089-2fec3e350ad9.svg)
 
 |[**GitHub - Scrcpy**](https://github.com/Genymobile/scrcpy/releases)|**- Questa applicazione fornisce la visualizzazione e il controllo dei dispositivi Android collegati tramite USB o tramite TCP/IP. Non richiede alcun accesso come root. Funziona su GNU/Linux, Windows e macOS.|
 | :--- | :--- |
@@ -166,12 +183,14 @@ https://it.wikipedia.org/wiki/International_Mobile_Equipment_Identity
 
 # Emulatori Android
 - [**Emulatori Android**](https://github.com/CScorza/DistroForensics#emulaotri-android)
+- [**Android Studio**](https://developer.android.com/studio)
 
 # LE BEST PRACTICES DELLA MOBILE FORENSICS
 
-||[**SWGDE Best Practices for Mobile Phone Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)|[**TipiLoschi.net - Best Practices per iPhone e iDevice**](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)|
+|[**CScorza - Best Practices di Digital Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/11068492/CScorza.-.Best.Practices.di.Digital.Forensics.pdf)|||
 | :--- | :--- | :--- |
-|**NEWS**|[**CScorza - Best Practices di Digital Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/11068492/CScorza.-.Best.Practices.di.Digital.Forensics.pdf)||
+|[**SWGDE Best Practices for Mobile Phone Forensics.pdf**](https://github.com/CScorza/OSINT-FORENSICS-MOBILE/files/9600300/SWGDE.Best.Practices.for.Mobile.Phone.Forensics.pdf)|[**TipiLoschi.net - Best Practices per iPhone e iDevice**](https://www.tipiloschi.net/drupal/best-practice-iphone-ios)|[**Mobile Devices**](https://www.nist.gov/itl/ssd/software-quality-group/computer-forensics-tool-testing-program-cftt/cftt-technical/mobile)|
+|[**Guidelines on Mobile DeviceForensics**](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-101r1.pdf)|[**ACPO Good Practice Guide for Digital Evidence v5**](https://www.digital-detective.net/digital-forensics-documents/ACPO_Good_Practice_Guide_for_Digital_Evidence_v5.pdf)|
 
 # NOTA BENE
 ![Attensione](https://user-images.githubusercontent.com/98583912/200124134-52263b4c-0332-4218-80d3-b5f7b0cfd97d.gif)
