@@ -1,7 +1,7 @@
 ![Index](https://user-images.githubusercontent.com/98583912/210836880-a20c3d74-edbb-420f-8481-a590d94ad2ed.gif)
 
 [![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
-
+[![**Manuali CScorza**](https://img.shields.io/badge/CScorza-Manuali-green)](https://drive.google.com/drive/folders/14jbOwS4GBSJhXP2BJk-TFCSMIzbZLBlj?usp=share_link)
 
 **INDICE**
 
