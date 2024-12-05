@@ -18,7 +18,7 @@
 
 ![smartphonemagnify-300x240](https://user-images.githubusercontent.com/98583912/190924812-fd8c70f6-8223-47d3-bf8e-b37bec16f2b4.png)
 
-## Elenchi Telefonici - Ricerca Numero**/*Phone Directories - Number Search*
+## Elenchi Telefonici - Ricerca Numero/*Phone Directories - Number Search*
 
 |**Italia**||
 | :--- | :--- |
@@ -26,7 +26,7 @@
 |[**Agcom**](https://www.agcom.it/numerazionicallcenter)|*Registry of the company/companies operating call center activities**|
 |[**Pagine Bianche**](https://www.paginebianche.it/)||
 
-|**Stranieri**/**Foreigners*|
+|**Stranieri**/*Foreigners*|
 | :--- |
 |[**Truecaller**](https://www.truecaller.com/auth/sign-in)|
 |[**Sync.me**](https://sync.me/it/)|
@@ -56,7 +56,7 @@
 |[**Infrapedia - Global Internet Infrastructure Map**](https://www.infrapedia.com)||
 |[**NPERF**](https://www.nperf.com/it/map/IT/-/-/signal/)||
 
-## Ricerca Operatori Telefonici**/*Mobile Network Operator Search*
+## Ricerca Operatori Telefonici/ *Mobile Network Operator Search*
 
 |**Generic**|**USA**|
 | :--- | :--- |
@@ -68,7 +68,7 @@
 |[**SMSC**](https://smsc.ru/testhlr/)||
 
 
-## Codice IMEI/*IMEI CODE**
+## Codice IMEI/ *IMEI CODE*
 ![COdice Imei](https://spyproject.com/img/landing/b/imei1.jpg)
 ![Imei](https://it.tab-tv.com/wp-content/uploads/2019/11/IMEI-codice-che-significa-spiegazione-it.jpg)
 ```
@@ -127,7 +127,7 @@ Some IMEI numbers have 16 digits; the last two digits, called SV (Software Versi
 
 ![Whatsapp_37229**](https://user-images.githubusercontent.com/98583912/190934139-b3b41790-aecd-4a9d-9b00-59249a70d0eb.png)
 
-**Esportazione Chat**/**Export a Chat*
+**Esportazione Chat**/ *Export a Chat*
 
 ![esportazione-chat-whatsapp**](https://user-images.githubusercontent.com/98583912/190933662-164db90f-eda8-42da-9bd7-d21034feb6d5.jpg)
 
@@ -144,11 +144,11 @@ Some IMEI numbers have 16 digits; the last two digits, called SV (Software Versi
 
 - [**Telegram Web**](https://web.telegram.org/k/)
 
-**Esportazione Chat Telegram**/**Export a Chat*
+**Esportazione Chat Telegram** /*Export a Chat*
 
 ![esportare-chat-telegram](https://user-images.githubusercontent.com/98583912/190934176-ba345478-258a-44ab-b8e4-73789135c84a.jpg)
 
-|**Ricerca Gruppi**/*Group Search"**||||
+|**Ricerca Gruppi**/ *Group Search*||||
 | :--- | :--- | :--- | :--- |
 |[**telegramdb**](https://telegramdb.org/)|[**Telegram Search Engine**](https://xtea.io/ts_en.html)|[**Global Telegram Database**](https://t.me/s/privatelinks)|[**TGStat - Catalogo canali e gruppi Telegram**](https://tgstat.com/)|
 |[**Telegago**](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)|[**SocialFinder**](https://socialfinder.app/list/Telegram)|[**lyzem.com**](https://lyzem.com/)|[**Telegram Channels**](https://telegramchannels.me/)|
